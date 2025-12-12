@@ -18,6 +18,7 @@
     "cheerio": "1.1.0",
     "child_process": "^1.0.2",
     "cors": "^2.8.5",
+    "adm-zip": "latest",
     "crypto": "^1.0.1",
     "denethdev-ytmp3": "^1.0.3",
     "dotenv": "^17.2.3",
